@@ -12,7 +12,6 @@ CSCRIPT //nologo "%TempVBSFile%"
 
 :a
 cls
-shutdown /r
 color 17
 
 
